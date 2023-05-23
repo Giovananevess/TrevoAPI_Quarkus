@@ -17,7 +17,6 @@ public class ProposalService {
     ProposalRepository proposalRepository;
 
     @Inject
-
     @RestClient
     private ProductClient productClient;
 
